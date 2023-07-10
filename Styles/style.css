@@ -1,0 +1,52 @@
+/* Font Family  */
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Common share Style */
+.text-primary {
+    color: #272727;
+}
+
+/* Primary Button */
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700px;
+    padding: 15px 35px;
+}
+
+/* Hero Style */
+
+.header {
+    background: #FCEEF1;
+    width: 1920px;
+    height: 850px;
+    
+
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 100px 20px 200px; 
+    
+}
+
+.hero-tittle {
+    color: #272727;
+    font-size: 55px;
+    margin-bottom: 0px;
+    padding-right: 97px;
+    margin-bottom: 25px;
+      
+}
+.hero-description {
+    color: rgba(39, 39, 39, 0.60);
+    max-width: 500px;
+    margin-bottom: 25px; 
+}
