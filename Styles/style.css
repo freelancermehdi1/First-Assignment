@@ -88,6 +88,9 @@ p.description {
 
 }
 /* Hot Deals Style */
+.Offer-text-color {
+    color: #E55473;
+}
 .hot-deals {
     display: flex;
     justify-content:center;
@@ -155,7 +158,7 @@ p.description {
     margin-bottom: 128px;    
 }
 .subcriber-text {
-    padding: 150px;
+    padding: 110px;
     margin-top: 30px;
 }
 .subcriber-tittle{
@@ -166,7 +169,7 @@ p.description {
     margin-bottom: 0px;
 }
 .subcriber-describtion {
-    margin margin-top: 0px;
+    margin-top: 0px;
 }
 .subcriber-form {
     width: 500px;
@@ -180,4 +183,28 @@ p.description {
     background: #E55473;
     border-style: none;
     margin-top: 10px;
+}
+/* Footer Style */
+.footer {
+    width: 1922px;
+    height: 449px;
+    color: white;
+    background: #111010;
+    text-align: center;
+}
+.footer-text {
+    padding-top: 100px;
+}
+.footer-tittle {
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+.footer-description {
+    margin-top: 20px;
+    color: #FEFEFE;
+}
+.copyright {
+    margin-top: 20px;
+    color: #FFFFFF66;
 }
