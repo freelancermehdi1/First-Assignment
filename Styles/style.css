@@ -56,15 +56,16 @@ body {
 .feature {
     display: flex;
      text-align: center;
-     margin-left: 240px;
+     margin-left: 300px;
 }
 .feature-image1 {
-    width: 464px;
+    width: 400px;
     height: 430px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     padding: 50px 10px 0px 10px;
+    margin-right: 10px;
     color: #272727;
     font-size: 24px;
     font-weight: 700;
@@ -72,11 +73,12 @@ body {
     text-decoration-line: underline;
 }
 .feature-image2 {
-    width: 464px;
+    width: 400px;
     height: 430px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     padding: 50px 10px 0px 10px;
+    margin-right: 10px;
     color: #272727;
     font-size: 24px;
     font-weight: 700;
@@ -84,11 +86,12 @@ body {
     text-decoration-line: underline;
 }
 .feature-image3 {
-    width: 464px;
+    width: 400px;
     height: 430px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     padding: 50px 10px 0px 10px;
+    margin-right: 10px;
     color: #272727;
     font-size: 24px;
     font-weight: 700;
