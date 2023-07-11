@@ -117,6 +117,7 @@ p.description {
 /* Social Media Part */
 .social-container{
     text-align: center;
+    margin-top: 128px;
 }
 .social-tittle {
     color: #272727;
@@ -139,5 +140,44 @@ p.description {
     padding: 5px;
     margin-top: 20px;
 }
+/* Subcriber Style */
 
-  
+.subcriber-container{
+    width: 1410px;
+    height: 449px;
+    border-radius: 8px;
+    background-image: url('../Images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin-left: 240px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 128px;
+    margin-bottom: 128px;    
+}
+.subcriber-text {
+    padding: 150px;
+    margin-top: 30px;
+}
+.subcriber-tittle{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+.subcriber-describtion {
+    margin margin-top: 0px;
+}
+.subcriber-form {
+    width: 500px;
+    height: 30px;
+    border-style: none;
+}
+.subcriber-button {
+    height: 32px;
+    color: white;
+    border-radius: 8px;
+    background: #E55473;
+    border-style: none;
+    margin-top: 10px;
+}
